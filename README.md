@@ -10,6 +10,9 @@ To use the Gradient Generator, follow these steps:
 
 ```bash
 git clone https://github.com/Sukomal07/Gradient-generator.git
+```
+
+```bash
 cd Gradient-generator
 ```
 
